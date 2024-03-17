@@ -18,14 +18,8 @@ Here are some ideas to get you started:
 
 public class AboutRozi
 {
-  private String name;
-  private String 
+  let name = "Rozi";
+  let profession = "Student in Intelligent System Engineering";
+  let 
 }
-
-public void setName (String Name)
-{
-  this.name = name;
-}
-
-public void 
 
