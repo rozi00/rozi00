@@ -16,10 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-public class AboutRozi
-{
-  let name = "Rozi";
-  let profession = "Student in Intelligent System Engineering";
-  let 
-}
 
